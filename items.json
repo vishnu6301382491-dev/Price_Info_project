@@ -1,0 +1,14 @@
+{
+  "vegetables": [
+    {"name": "Potato", "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Potato_Solanum_tuberosum.jpg", "info": "Potatoes are tuberous crops and a staple food in many countries.", "price": 30, "lastUpdated": "2026-01-19"},
+    {"name": "Tomato", "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg", "info": "Tomatoes are widely used in cooking and are a good source of vitamins A and C.", "price": 40, "lastUpdated": "2026-01-19"}
+  ],
+  "flowers": [
+    {"name": "Rose", "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Rose_Flower.JPG", "info": "Roses are popular ornamental flowers, known for their beauty and fragrance.", "price": 15, "lastUpdated": "2026-01-19"},
+    {"name": "Marigold", "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Marigold_flower.JPG", "info": "Marigolds are bright yellow-orange flowers, often used in decorations and garlands.", "price": 10, "lastUpdated": "2026-01-19"}
+  ],
+  "foods": [
+    {"name": "Rice", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Rice_white_long_grain.jpg", "info": "Rice is a staple food for more than half of the world’s population.", "price": 55, "lastUpdated": "2026-01-19"},
+    {"name": "Wheat", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Wheat_close-up.JPG", "info": "Wheat is a cereal grain and a key ingredient in bread, pasta, and many other foods.", "price": 45, "lastUpdated": "2026-01-19"}
+  ]
+}
